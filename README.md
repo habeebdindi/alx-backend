@@ -1,1 +1,1 @@
-## This deirectory contains files employing the concept of pagination in API design
+## This repo contains directories employing the concept of pagination in API design

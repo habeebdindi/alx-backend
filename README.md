@@ -1,0 +1,1 @@
+## This deirectory contains files employing the concept of pagination in API design

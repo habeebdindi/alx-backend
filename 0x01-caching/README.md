@@ -1,0 +1,1 @@
+## This directory contains files employing the concept of caching
